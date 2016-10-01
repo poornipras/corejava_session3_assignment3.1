@@ -1,0 +1,16 @@
+
+3.1 This program will not compile as there is no main method.
+
+Answer a.Compiler error
+
+public class Test{
+static{
+print(10);
+}
+static void print (int x) {
+System.out.println (x);
+System.exit(0);
+}
+}
+
+
